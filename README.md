@@ -18,9 +18,6 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 ```
-#Program to find the inverse of a matrix.
-#Developed by: SANKAR S
-#RegisterNumber:212224040291
 
 import numpy as np
 matrixA=np.array([[6,2,3],[3,1,1],[10,3,4]])
