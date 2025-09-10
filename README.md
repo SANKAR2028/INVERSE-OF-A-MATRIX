@@ -1,4 +1,10 @@
 # INVERSE-OF-A-MATRIX
+
+```
+NAME: SANKAR S
+DEPT: B.E/CSE
+REG NO: 212224040291
+```
 ## Aim:
 To write a python program to find the inverse of a matrix
 ## Equipment’s required:
@@ -11,7 +17,24 @@ To write a python program to find the inverse of a matrix
 ### Step 4: 
 
 ## Program:
+```
+#Program to find the inverse of a matrix.
+#Developed by: SANKAR S
+#RegisterNumber:212224040291
+
+import numpy as np
+matrixA=np.array([[6,2,3],[3,1,1],[10,3,4]])
+inverse=np.linalg.inv(matrixA)
+print(inverse)
+
+```
+
+
+
 ## Output:
+
+![alt text](<Screenshot 2025-09-09 132417.png>)
 ## Result:
+
 Thus the inverse of given matrix is successfully solved using python program
 
